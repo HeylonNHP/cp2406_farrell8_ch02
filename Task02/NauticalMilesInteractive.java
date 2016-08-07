@@ -1,5 +1,6 @@
 /**
  * Created by Heylon2 on 7/08/2016.
+ * Nautical miles converter
  */
 import java.util.Scanner;
 public class NauticalMilesInteractive {
